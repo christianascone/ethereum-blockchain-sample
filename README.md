@@ -2,7 +2,6 @@
 
 ## Requirements
 - [go-ethereum](https://github.com/ethereum/go-ethereum/wiki/Building-Ethereum)
-- Ganache
 
 ## Gettings started
 
